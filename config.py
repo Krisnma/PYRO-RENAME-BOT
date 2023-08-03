@@ -83,9 +83,9 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 """
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
-    DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» Anikatsuki : <a href=https://t.me/Anikatsuki>Anime channel</a>
-» Group chat : <a href=https://t.me/animekingdomzs>Animekingdom</a> """
+    DEV_TXT = """<b><u>our Anime Channel And Chat Group</b></u>
+» Anime : <a href=https://t.me/Anikatsuki>Anikatsuki</a>
+» Group chat : <a href=https://t.me/animekingdomzs>Animekingdomzs</a> """
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
